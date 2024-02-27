@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Lets make some cool stuff
-
 <!--
 **danieljbae/danieljbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
